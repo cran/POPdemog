@@ -1,0 +1,17 @@
+066a1a3a5ce3f623f06cb9aa6d58dce7 *DESCRIPTION
+33312224d5c069ef67f93e28acd2b53a *NAMESPACE
+c718fb1fab692c1d746bc17805154042 *R/parameters.r
+010e4cad054cff0693d09f1605cf13aa *R/popdemog.R
+132eb942304d3bd9ddd37ed35a7f939e *R/read.r
+a6d58928f87110140dc633d48d82e529 *R/tools.r
+9d1ee9ec42fa20fc3620b20b145a016c *build/vignette.rds
+2b3deed4cb72e67fa268863ba046a3ab *inst/doc/popdemog_tutorial.R
+fa62b1adf4e1aabb3bc1d307b195519d *inst/doc/popdemog_tutorial.Rmd
+4e2c02877201564be717c140acef9207 *inst/doc/popdemog_tutorial.html
+741c8ad57c3b2bfd25943fd9318ed1dd *man/NOut.Rd
+54269d8ab916ba9bb62c331230f2f76e *man/NRuler.Rd
+5489ef4674c16158231f39780e47a8ff *man/POPdemog-package.Rd
+db30994f09cb8c93bfa04cbac2ee23cd *man/PlotMMig.Rd
+566e8669d0e4dbe24d5e87fc5d36a2f0 *man/PlotMS.Rd
+3647c28c81e2e6a2c92c0fd0f49a492e *man/PlotMig.Rd
+fa62b1adf4e1aabb3bc1d307b195519d *vignettes/popdemog_tutorial.Rmd
